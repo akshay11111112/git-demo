@@ -1,0 +1,2 @@
+This is NewFile 1
+This is new line
